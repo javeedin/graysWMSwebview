@@ -1,0 +1,10 @@
+{
+  "printerName": "Microsoft Print to PDF",
+  "paperSize": "A4",
+  "orientation": "Portrait",
+  "fusionInstance": "TEST",
+  "fusionUsername": "shaik",
+  "fusionPassword": "fusion1234",
+  "autoDownload": true,
+  "autoPrint": true
+}
